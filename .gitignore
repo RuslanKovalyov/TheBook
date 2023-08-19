@@ -18,6 +18,12 @@ build/
 db.sqlite3
 migrations/
 
+# Static and Media Files
+#  For static files like CSS, JS, and images. Django's collectstatic command will gather all static files here when deploying.
+static/
+# For user-uploaded files. Don't share user data to repo.
+media/
+
 # Virtualenv for Python
 venv/
 *.venv
