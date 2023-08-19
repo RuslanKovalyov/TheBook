@@ -1,0 +1,35 @@
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.pot
+*.db
+*.sqlite3
+
+# Django specific
+*.log
+*.pot
+*.db
+db.sqlite3
+migrations/
+
+# Virtualenv for Python
+venv/
+*.venv
+*.pyvenv.cfg
+
+# Environment variables and keys
+.env
+
+# Caching
+*.cache
+# For Redis, you might have dump files:
+dump.rdb
+
+# MacOS specifics
+.DS_Store
