@@ -48,7 +48,7 @@ First and foremost, a heartfelt **thank you** for considering a contribution to 
 
 ### ❤️ Django Development Practices
 
-- Django Initialization: Within TheBook.co.il repository, our Django backend is prominently initialized as Django. This distinct naming is designed for immediate framework identification, ensuring contributors can effortlessly discern the core backend structure. It's imperative to adhere to Django's best practices throughout the development process.
+- Django Initialization: Within TheBook repository, our Django backend is prominently initialized as Django. This distinct naming is designed for immediate framework identification, ensuring contributors can effortlessly discern the core backend structure. It's imperative to adhere to Django's best practices throughout the development process.
 
 - App Naming Convention: Our main app is designated as app_main. This naming approach signals its primary role within the Django framework and sets a precedent for other apps' names. Adopting this convention aids in maintaining a consistent, intuitive structure as the project scales.
 
