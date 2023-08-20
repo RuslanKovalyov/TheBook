@@ -19,7 +19,7 @@ db.sqlite3
 migrations/
 
 # Static and Media Files
-#  For static files like CSS, JS, and images. Django's collectstatic command will gather all static files here when deploying.
+# For static files like CSS, JS, and images. Django's collectstatic command will gather all static files here when deploying.
 static/
 # For user-uploaded files. Don't share user data to repo.
 media/
@@ -36,6 +36,9 @@ venv/
 *.cache
 # For Redis, you might have dump files:
 dump.rdb
+
+# Server config files, security features, Scripts and Utilities
+server staff/
 
 # MacOS specifics
 .DS_Store
