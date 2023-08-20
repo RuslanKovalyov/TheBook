@@ -17,6 +17,8 @@ build/
 *.db
 db.sqlite3
 migrations/
+__init__.py
+
 
 # Static and Media Files
 # For static files like CSS, JS, and images. Django's collectstatic command will gather all static files here when deploying.

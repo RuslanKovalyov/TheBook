@@ -46,6 +46,20 @@ First and foremost, a heartfelt **thank you** for considering a contribution to 
 
 - Adherence to the [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide is appreciated.
 
+### ❤️ Django Development Practices
+
+- Django Initialization: Within TheBook.co.il repository, our Django backend is prominently initialized as Django. This distinct naming is designed for immediate framework identification, ensuring contributors can effortlessly discern the core backend structure. It's imperative to adhere to Django's best practices throughout the development process.
+
+- App Naming Convention: Our main app is designated as app_main. This naming approach signals its primary role within the Django framework and sets a precedent for other apps' names. Adopting this convention aids in maintaining a consistent, intuitive structure as the project scales.
+
+- Future-Ready Structure: We've architectured our repository with an eye on the future. The current structure facilitates easy integration of other potential frameworks, such as React, directly at the root level, underscoring our commitment to adaptability and embracing technological evolution.
+
+- Models, Views, and Templates: Your contributions should have models, views, and templates that are organized and modular. While class-based views can enhance clarity, the emphasis should always be on creating concise and efficient views.
+
+- Database Migrations: For any alterations to the database, ensure you create and thoroughly test migrations before submitting any pull request.
+
+- Dependencies Management: Introducing new dependencies mandates an update to the requirements.txt file. Additionally, your pull request should contain a concise justification for the inclusion of the new dependency.
+
 ## 📌 Final Notes
 
 Let's maintain a high standard for TheBook.co.il. Ensure your contributions are in line with our conventions and elevate the quality of content and code alike. Here's to building something great, together!

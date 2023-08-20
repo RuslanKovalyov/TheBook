@@ -1,2 +1,5 @@
 # Django version
 Django==4.2.4
+
+# For managing environment variables
+python-dotenv==1.0.0
