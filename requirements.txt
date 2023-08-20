@@ -1,5 +1,2 @@
-# Update pip to the latest version
-pip==latest
-
 # Django version
 Django==4.2.4
