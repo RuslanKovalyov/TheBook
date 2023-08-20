@@ -38,6 +38,7 @@ This command creates a new virtual environment named `venv`.
 ### 5️⃣ Install Required Packages
 
 Install the necessary packages:
+`pip install --upgrade pip`
 `pip install -r requirements.txt`
 This command will install Django 4.2.4 and any other dependencies.
 
